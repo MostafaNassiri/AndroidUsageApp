@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">گزارش مصرف دیتا</string>
+    <string name="start_button_text">شروع برنامه</string>
+    <string name="stop_button_text">توقف برنامه</string>
+    <string name="foreground_header">گزارش مصرف دیتا</string>
+    <string name="foreground_text">برنامه در حال اجراست...</string>
+</resources>
